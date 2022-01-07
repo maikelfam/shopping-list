@@ -3,3 +3,5 @@
 - Milk
 - Bananas
 - Yogurt
+- Honey
+- Chicken
